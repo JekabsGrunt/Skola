@@ -19,7 +19,7 @@ exports[`renders homepage unchanged 1`] = `
       <p
         class="description"
       >
-        Heyo, Pandora 
+        Heyo, Call Karl 
         <code>
           pages/index.js
         </code>

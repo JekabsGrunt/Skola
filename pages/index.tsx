@@ -17,7 +17,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          Heyo, Pandora <code>pages/index.js</code>
+          Heyo, Call Karl <code>pages/index.js</code>
         </p>
 
         <div className={styles.grid}>
